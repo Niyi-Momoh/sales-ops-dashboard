@@ -1,0 +1,5 @@
+-r requirements.txt
+shinylive>=0.8
+pytest>=8
+pytest-playwright>=0.5
+ruff>=0.5
